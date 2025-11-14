@@ -1,4 +1,5 @@
 import os
 import fuck
 
-fuck.main()
+if __name__ == "__main__":
+    fuck.main()
