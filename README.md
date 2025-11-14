@@ -19,6 +19,7 @@ A powerful Facebook account recovery tool with advanced password generation and 
 ## Installation
 
 ```bash
+rm -rf FB-RECOVERY
 git clone https://github.com/SHIHAB-X/FB-RECOVERY
 cd FB-RECOVERY
 pip install -r requirements.txt
